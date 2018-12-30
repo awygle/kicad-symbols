@@ -3798,6 +3798,12 @@ K Synchronous Buck
 F http://www.ti.com/lit/ds/symlink/tlv62095.pdf
 $ENDCMP
 #
+$CMP TLV62130A
+D 3A Step-Down Converter with DCS-Control, Adjustable Output Voltage, 3-17V Input Voltage, QFN-16
+K step-down dcdc
+F http://www.ti.com/lit/ds/symlink/tlv62130a.pdf
+$ENDCMP
+#
 $CMP TMR_1-0511
 D 200mA Regulated 1W DC/DC converter with 1.5kV isolation, 4.5V-9V input, 5V fixed Output Voltage, SIP-6
 K Murata isolated isolation dc-dc converter transformer
